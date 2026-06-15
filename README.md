@@ -1,17 +1,22 @@
+
 # ˃ 𖥦 ˂ About Me:
-Hi! I'm Mar 𐙚 ‧₊˚ ⋅, a Software Developer based in Argentina. 🇦🇷<br>˚˖𓍢ִ໋❀ I've started working as a Dev. in late 2019, working as a Freelancer Developer, mostly making landing pages, fixing bugs, designing and coding features, API’s integration, working together with people from all around the world.<br>✮⋆˙ I also worked as a Software Developer at MMi, where I was responsible for both frontend and backend development.<br>.✦ ݁˖And as a Front End Developer for Hogarth Argentina, where I focused on web localization, ensuring the seamless adaptation of content across multiple languages and regions, often working alongside designers, QA testers, and project managers to deliver high-quality results.<br> Right now, I am working as a Fullstack Developer at GlobalLogic, mainly using Java for backend, and React/Next with Typescript for the frontend. <br><br>ES:<br>Holi!Soy Mar 𐙚 ‧₊˚ ⋅, una Software Developer de Argentina. 🇦🇷<br>˚˖𓍢ִ໋❀ Empecé a trabajar como Dev. a finales del 2019, trabajando como Freelancer, desarrollando landing pages, arreglando bugs, diseñando y codeando features, integrando API’s, y trabajando junto con gente de todo el mundo<br>✮⋆˙ Trabajé como Software Frontend Developer en MMi, donde fui responsable <br>tanto del Frontend como del Backend.<br> .✦ ݁˖ También trabajé como Frontend Developer en Hogarth Argentina, donde me especialicé en la localización de páginas, asegurando que el contenido se adapte de forma fluida contenido >entre distintos idiomas y regiones.<br>Tengo un entendimiento bastante profundizado en colaboraciones, ya que trabajé con diseñadores, QA testers y PM's para entregar resultados de alta calidad. <br> En este momento, me encuentro trabajando como Fullstack en GlobalLogic, principalmente usando Java para el backend y React/Next con Typescript para el front
+Hi! I'm Mar 𐙚 ‧₊˚ ⋅, a Software Developer based in Argentina. 🇦🇷<br>˚˖𓍢ִ໋❀ I've started working as a Dev. in late 2019, working as a Freelancer Developer, mostly making landing pages, fixing bugs, designing and coding features, API’s integration, working together with people from all around the world.<br>✮⋆˙ I also worked as a Software Developer at MMi, where I was responsible for both frontend and backend development.<br>.✦ ݁˖And as a Front End Developer for Hogarth Argentina, where I focused on web localization, ensuring the seamless adaptation of content across multiple languages and regions, often working alongside designers, QA testers, and project managers to deliver high-quality results.<br> Right now, I am working as a Fullstack Developer at GlobalLogic, mainly using Java for backend, and React/Next with Typescript for the frontend. <br><br>ES:<br>Holi! Soy Mar 𐙚 ‧₊˚ ⋅, una Software Developer de Argentina. 🇦🇷<br>˚˖𓍢ִ໋❀ Empecé a trabajar como Dev. a finales del 2019, trabajando como Freelancer, desarrollando landing pages, arreglando bugs, diseñando y codeando features, integrando API’s, y trabajando junto con gente de todo el mundo<br>✮⋆˙ Trabajé como Software Frontend Developer en MMi, donde fui responsable <br>tanto del Frontend como del Backend.<br> .✦ ݁˖ También trabajé como Frontend Developer en Hogarth Argentina, donde me especialicé en la localización de páginas, asegurando que el contenido se adapte de forma fluida contenido >entre distintos idiomas y regiones.<br>Tengo un entendimiento bastante profundizado en colaboraciones, ya que trabajé con diseñadores, QA testers y PM's para entregar resultados de alta calidad. <br> En este momento, me encuentro trabajando como Fullstack en GlobalLogic, principalmente usando Java para el backend y React/Next con Typescript para el front
 
 
-## 🌐 Socials:
+## .✦ ݁˖LinkedIn .✦ ݁˖:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martina-Juan) 
 
-# 💻 Tech Stack:
+## °❀⋆.ೃ࿔*:･  Stack   °❀⋆.ೃ࿔*:･:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MarArmstrong&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MarArmstrong&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarArmstrong&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MarArmstrong&icon=2&color=11)](https://visitcount.itsvg.in)
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣎⠱⣲⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠤⠒⠒⠒⠒⠤⢄⣈⠈⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⡤⠒⠝⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠲⢄⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⢠⣢⠐⡄⠀⠉⠑⠒⠒⠒⣄
+⠀⠀⠀⣀⠴⠋⠀⠀⠀⡎⢀⣘⠿⠀⠀⢠⣀⢄⡦⠀⣛⣐⢸⠀⠀⠀⠀⠀⠀⢘
+⡠⠒⠉⠀⠀⠀⠀⠀⡰⢅⠣⠤⠘⠀⠀⠀⠀⠀⠀⢀⣀⣤⡋⠙⠢⢄⣀⣀⡠⠊
+⢇⠀⠀⠀⠀⠀⢀⠜⠁⠀⠉⡕⠒⠒⠒⠒⠒⠛⠉⠹⡄⣀⠘⡄⠀⠀⠀⠀⠀⠀
+⠀⠑⠂⠤⠔⠒⠁⠀⠀⡎⠱⡃⠀⠀⡄⠀⠄⠀⠀⠠⠟⠉⡷⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⠤⠤⠴⣄⡸⠤⣄⠴⠤⠴⠄⠼⠀⠀⠀⠀⠀⠀⠀⠀
